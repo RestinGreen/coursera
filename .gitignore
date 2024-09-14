@@ -1,0 +1,8 @@
+*.class
+input
+.project
+.classpath
+libs
+bin
+.settings
+.git
